@@ -1,0 +1,15 @@
+/Users/admin/Hello_World/Hello_world/Hello_world/bin/Debug/net7.0/Hello_world
+/Users/admin/Hello_World/Hello_world/Hello_world/bin/Debug/net7.0/Hello_world.deps.json
+/Users/admin/Hello_World/Hello_world/Hello_world/bin/Debug/net7.0/Hello_world.runtimeconfig.json
+/Users/admin/Hello_World/Hello_world/Hello_world/bin/Debug/net7.0/Hello_world.dll
+/Users/admin/Hello_World/Hello_world/Hello_world/bin/Debug/net7.0/Hello_world.pdb
+/Users/admin/Hello_World/Hello_world/Hello_world/obj/Debug/net7.0/Hello_world.csproj.AssemblyReference.cache
+/Users/admin/Hello_World/Hello_world/Hello_world/obj/Debug/net7.0/Hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Hello_World/Hello_world/Hello_world/obj/Debug/net7.0/Hello_world.AssemblyInfoInputs.cache
+/Users/admin/Hello_World/Hello_world/Hello_world/obj/Debug/net7.0/Hello_world.AssemblyInfo.cs
+/Users/admin/Hello_World/Hello_world/Hello_world/obj/Debug/net7.0/Hello_world.csproj.CoreCompileInputs.cache
+/Users/admin/Hello_World/Hello_world/Hello_world/obj/Debug/net7.0/Hello_world.dll
+/Users/admin/Hello_World/Hello_world/Hello_world/obj/Debug/net7.0/refint/Hello_world.dll
+/Users/admin/Hello_World/Hello_world/Hello_world/obj/Debug/net7.0/Hello_world.pdb
+/Users/admin/Hello_World/Hello_world/Hello_world/obj/Debug/net7.0/Hello_world.genruntimeconfig.cache
+/Users/admin/Hello_World/Hello_world/Hello_world/obj/Debug/net7.0/ref/Hello_world.dll
